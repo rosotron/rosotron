@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rosotron&label=Profile%20views&color=0e75b6&style=flat" alt="rosotron" /> </p>
 
-- 🌱 I’m currently learning **AR Development**
+- 🌱 I’m currently learning **App Development**
 
 - 💬 Ask me about **MERN Stack**
 
